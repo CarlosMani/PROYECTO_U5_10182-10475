@@ -1,0 +1,84 @@
+C:\Users\Usuario\source\repos\Proyecto Taller Mecanico\bin\Debug\Proyecto Taller Mecanico.exe.config
+C:\Users\Usuario\source\repos\Proyecto Taller Mecanico\bin\Debug\Proyecto Taller Mecanico.exe
+C:\Users\Usuario\source\repos\Proyecto Taller Mecanico\bin\Debug\Proyecto Taller Mecanico.pdb
+C:\Users\Usuario\source\repos\Proyecto Taller Mecanico\obj\Debug\Proyecto Taller Mecanico.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Proyecto Taller Mecanico\obj\Debug\Proyecto_Taller_Mecanico.Form1.resources
+C:\Users\Usuario\source\repos\Proyecto Taller Mecanico\obj\Debug\Proyecto_Taller_Mecanico.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Proyecto Taller Mecanico\obj\Debug\Proyecto Taller Mecanico.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Proyecto Taller Mecanico\obj\Debug\Proyecto Taller Mecanico.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Proyecto Taller Mecanico\obj\Debug\Proyecto Taller Mecanico.exe
+C:\Users\Usuario\source\repos\Proyecto Taller Mecanico\obj\Debug\Proyecto Taller Mecanico.pdb
+C:\Users\Usuario\source\repos\Proyecto Taller Mecanico\obj\Debug\Proyecto_Taller_Mecanico.TotalDeVenta.resources
+D:\Progra2\Proyecto Taller Mecanico - copia\bin\Debug\Proyecto Taller Mecanico.exe.config
+D:\Progra2\Proyecto Taller Mecanico - copia\bin\Debug\Proyecto Taller Mecanico.exe
+D:\Progra2\Proyecto Taller Mecanico - copia\bin\Debug\Proyecto Taller Mecanico.pdb
+D:\Progra2\Proyecto Taller Mecanico - copia\obj\Debug\Proyecto Taller Mecanico.csproj.AssemblyReference.cache
+D:\Progra2\Proyecto Taller Mecanico - copia\obj\Debug\Proyecto Taller Mecanico.csproj.SuggestedBindingRedirects.cache
+D:\Progra2\Proyecto Taller Mecanico - copia\obj\Debug\Proyecto_Taller_Mecanico.Form1.resources
+D:\Progra2\Proyecto Taller Mecanico - copia\obj\Debug\Proyecto_Taller_Mecanico.Properties.Resources.resources
+D:\Progra2\Proyecto Taller Mecanico - copia\obj\Debug\Proyecto_Taller_Mecanico.TotalDeVenta.resources
+D:\Progra2\Proyecto Taller Mecanico - copia\obj\Debug\Proyecto Taller Mecanico.csproj.GenerateResource.cache
+D:\Progra2\Proyecto Taller Mecanico - copia\obj\Debug\Proyecto Taller Mecanico.csproj.CoreCompileInputs.cache
+D:\Progra2\Proyecto Taller Mecanico - copia\obj\Debug\Proyecto Taller Mecanico.exe
+D:\Progra2\Proyecto Taller Mecanico - copia\obj\Debug\Proyecto Taller Mecanico.pdb
+C:\Users\Home\Desktop\UNIDAD 5 FUNDAMENTOS DE PROGRAMACION\Proyecto Taller Mecanico - copia\bin\Debug\Proyecto Taller Mecanico.exe.config
+C:\Users\Home\Desktop\UNIDAD 5 FUNDAMENTOS DE PROGRAMACION\Proyecto Taller Mecanico - copia\bin\Debug\Proyecto Taller Mecanico.exe
+C:\Users\Home\Desktop\UNIDAD 5 FUNDAMENTOS DE PROGRAMACION\Proyecto Taller Mecanico - copia\bin\Debug\Proyecto Taller Mecanico.pdb
+C:\Users\Home\Desktop\UNIDAD 5 FUNDAMENTOS DE PROGRAMACION\Proyecto Taller Mecanico - copia\obj\Debug\Proyecto Taller Mecanico.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\UNIDAD 5 FUNDAMENTOS DE PROGRAMACION\Proyecto Taller Mecanico - copia\obj\Debug\Proyecto Taller Mecanico.csproj.SuggestedBindingRedirects.cache
+C:\Users\Home\Desktop\UNIDAD 5 FUNDAMENTOS DE PROGRAMACION\Proyecto Taller Mecanico - copia\obj\Debug\Proyecto_Taller_Mecanico.Form1.resources
+C:\Users\Home\Desktop\UNIDAD 5 FUNDAMENTOS DE PROGRAMACION\Proyecto Taller Mecanico - copia\obj\Debug\Proyecto_Taller_Mecanico.Properties.Resources.resources
+C:\Users\Home\Desktop\UNIDAD 5 FUNDAMENTOS DE PROGRAMACION\Proyecto Taller Mecanico - copia\obj\Debug\Proyecto_Taller_Mecanico.TotalDeVenta.resources
+C:\Users\Home\Desktop\UNIDAD 5 FUNDAMENTOS DE PROGRAMACION\Proyecto Taller Mecanico - copia\obj\Debug\Proyecto Taller Mecanico.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\UNIDAD 5 FUNDAMENTOS DE PROGRAMACION\Proyecto Taller Mecanico - copia\obj\Debug\Proyecto Taller Mecanico.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\UNIDAD 5 FUNDAMENTOS DE PROGRAMACION\Proyecto Taller Mecanico - copia\obj\Debug\Proyecto Taller Mecanico.exe
+C:\Users\Home\Desktop\UNIDAD 5 FUNDAMENTOS DE PROGRAMACION\Proyecto Taller Mecanico - copia\obj\Debug\Proyecto Taller Mecanico.pdb
+C:\Users\Home\Desktop\UNIDAD 5 FUNDAMENTOS DE PROGRAMACION\PROYECTO FINAL MANI E YAMIR\bin\Debug\Proyecto Taller Mecanico.exe.config
+C:\Users\Home\Desktop\UNIDAD 5 FUNDAMENTOS DE PROGRAMACION\PROYECTO FINAL MANI E YAMIR\bin\Debug\Proyecto Taller Mecanico.exe
+C:\Users\Home\Desktop\UNIDAD 5 FUNDAMENTOS DE PROGRAMACION\PROYECTO FINAL MANI E YAMIR\bin\Debug\Proyecto Taller Mecanico.pdb
+C:\Users\Home\Desktop\UNIDAD 5 FUNDAMENTOS DE PROGRAMACION\PROYECTO FINAL MANI E YAMIR\obj\Debug\Proyecto Taller Mecanico.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\UNIDAD 5 FUNDAMENTOS DE PROGRAMACION\PROYECTO FINAL MANI E YAMIR\obj\Debug\Proyecto Taller Mecanico.csproj.SuggestedBindingRedirects.cache
+C:\Users\Home\Desktop\UNIDAD 5 FUNDAMENTOS DE PROGRAMACION\PROYECTO FINAL MANI E YAMIR\obj\Debug\Proyecto_Taller_Mecanico.Form1.resources
+C:\Users\Home\Desktop\UNIDAD 5 FUNDAMENTOS DE PROGRAMACION\PROYECTO FINAL MANI E YAMIR\obj\Debug\Proyecto_Taller_Mecanico.Properties.Resources.resources
+C:\Users\Home\Desktop\UNIDAD 5 FUNDAMENTOS DE PROGRAMACION\PROYECTO FINAL MANI E YAMIR\obj\Debug\Proyecto_Taller_Mecanico.TotalDeVenta.resources
+C:\Users\Home\Desktop\UNIDAD 5 FUNDAMENTOS DE PROGRAMACION\PROYECTO FINAL MANI E YAMIR\obj\Debug\Proyecto Taller Mecanico.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\UNIDAD 5 FUNDAMENTOS DE PROGRAMACION\PROYECTO FINAL MANI E YAMIR\obj\Debug\Proyecto Taller Mecanico.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\UNIDAD 5 FUNDAMENTOS DE PROGRAMACION\PROYECTO FINAL MANI E YAMIR\obj\Debug\Proyecto Taller Mecanico.exe
+C:\Users\Home\Desktop\UNIDAD 5 FUNDAMENTOS DE PROGRAMACION\PROYECTO FINAL MANI E YAMIR\obj\Debug\Proyecto Taller Mecanico.pdb
+E:\PROYECTO ORIGINAL\PROYECTO FINAL MANI E YAMIR\bin\Debug\Proyecto Taller Mecanico.exe.config
+E:\PROYECTO ORIGINAL\PROYECTO FINAL MANI E YAMIR\bin\Debug\Proyecto Taller Mecanico.exe
+E:\PROYECTO ORIGINAL\PROYECTO FINAL MANI E YAMIR\bin\Debug\Proyecto Taller Mecanico.pdb
+E:\PROYECTO ORIGINAL\PROYECTO FINAL MANI E YAMIR\obj\Debug\Proyecto Taller Mecanico.csproj.AssemblyReference.cache
+E:\PROYECTO ORIGINAL\PROYECTO FINAL MANI E YAMIR\obj\Debug\Proyecto_Taller_Mecanico.Form1.resources
+E:\PROYECTO ORIGINAL\PROYECTO FINAL MANI E YAMIR\obj\Debug\Proyecto_Taller_Mecanico.Form2.resources
+E:\PROYECTO ORIGINAL\PROYECTO FINAL MANI E YAMIR\obj\Debug\Proyecto_Taller_Mecanico.Properties.Resources.resources
+E:\PROYECTO ORIGINAL\PROYECTO FINAL MANI E YAMIR\obj\Debug\Proyecto_Taller_Mecanico.TotalDeVenta.resources
+E:\PROYECTO ORIGINAL\PROYECTO FINAL MANI E YAMIR\obj\Debug\Proyecto Taller Mecanico.csproj.GenerateResource.cache
+E:\PROYECTO ORIGINAL\PROYECTO FINAL MANI E YAMIR\obj\Debug\Proyecto Taller Mecanico.csproj.CoreCompileInputs.cache
+E:\PROYECTO ORIGINAL\PROYECTO FINAL MANI E YAMIR\obj\Debug\Proyecto Taller Mecanico.exe
+E:\PROYECTO ORIGINAL\PROYECTO FINAL MANI E YAMIR\obj\Debug\Proyecto Taller Mecanico.pdb
+C:\Users\Home\Desktop\TALLER MECANICO\PROYECTO FINAL MANI E YAMIR\bin\Debug\Proyecto Taller Mecanico.exe.config
+C:\Users\Home\Desktop\TALLER MECANICO\PROYECTO FINAL MANI E YAMIR\bin\Debug\Proyecto Taller Mecanico.exe
+C:\Users\Home\Desktop\TALLER MECANICO\PROYECTO FINAL MANI E YAMIR\bin\Debug\Proyecto Taller Mecanico.pdb
+C:\Users\Home\Desktop\TALLER MECANICO\PROYECTO FINAL MANI E YAMIR\obj\Debug\Proyecto Taller Mecanico.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\TALLER MECANICO\PROYECTO FINAL MANI E YAMIR\obj\Debug\Proyecto Taller Mecanico.csproj.SuggestedBindingRedirects.cache
+C:\Users\Home\Desktop\TALLER MECANICO\PROYECTO FINAL MANI E YAMIR\obj\Debug\Proyecto_Taller_Mecanico.Form1.resources
+C:\Users\Home\Desktop\TALLER MECANICO\PROYECTO FINAL MANI E YAMIR\obj\Debug\Proyecto_Taller_Mecanico.Form2.resources
+C:\Users\Home\Desktop\TALLER MECANICO\PROYECTO FINAL MANI E YAMIR\obj\Debug\Proyecto_Taller_Mecanico.Properties.Resources.resources
+C:\Users\Home\Desktop\TALLER MECANICO\PROYECTO FINAL MANI E YAMIR\obj\Debug\Proyecto_Taller_Mecanico.TotalDeVenta.resources
+C:\Users\Home\Desktop\TALLER MECANICO\PROYECTO FINAL MANI E YAMIR\obj\Debug\Proyecto Taller Mecanico.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\TALLER MECANICO\PROYECTO FINAL MANI E YAMIR\obj\Debug\Proyecto Taller Mecanico.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\TALLER MECANICO\PROYECTO FINAL MANI E YAMIR\obj\Debug\Proyecto Taller Mecanico.exe
+C:\Users\Home\Desktop\TALLER MECANICO\PROYECTO FINAL MANI E YAMIR\obj\Debug\Proyecto Taller Mecanico.pdb
+E:\LG Smart TV\Proyecto-TM-Yamir-Mani\PROYECTO FINAL MANI E YAMIR\bin\Debug\Proyecto Taller Mecanico.exe.config
+E:\LG Smart TV\Proyecto-TM-Yamir-Mani\PROYECTO FINAL MANI E YAMIR\bin\Debug\Proyecto Taller Mecanico.exe
+E:\LG Smart TV\Proyecto-TM-Yamir-Mani\PROYECTO FINAL MANI E YAMIR\bin\Debug\Proyecto Taller Mecanico.pdb
+E:\LG Smart TV\Proyecto-TM-Yamir-Mani\PROYECTO FINAL MANI E YAMIR\obj\Debug\Proyecto Taller Mecanico.csproj.AssemblyReference.cache
+E:\LG Smart TV\Proyecto-TM-Yamir-Mani\PROYECTO FINAL MANI E YAMIR\obj\Debug\Proyecto_Taller_Mecanico.Form1.resources
+E:\LG Smart TV\Proyecto-TM-Yamir-Mani\PROYECTO FINAL MANI E YAMIR\obj\Debug\Proyecto_Taller_Mecanico.Form2.resources
+E:\LG Smart TV\Proyecto-TM-Yamir-Mani\PROYECTO FINAL MANI E YAMIR\obj\Debug\Proyecto_Taller_Mecanico.Properties.Resources.resources
+E:\LG Smart TV\Proyecto-TM-Yamir-Mani\PROYECTO FINAL MANI E YAMIR\obj\Debug\Proyecto_Taller_Mecanico.TotalDeVenta.resources
+E:\LG Smart TV\Proyecto-TM-Yamir-Mani\PROYECTO FINAL MANI E YAMIR\obj\Debug\Proyecto Taller Mecanico.csproj.GenerateResource.cache
+E:\LG Smart TV\Proyecto-TM-Yamir-Mani\PROYECTO FINAL MANI E YAMIR\obj\Debug\Proyecto Taller Mecanico.csproj.CoreCompileInputs.cache
+E:\LG Smart TV\Proyecto-TM-Yamir-Mani\PROYECTO FINAL MANI E YAMIR\obj\Debug\Proyecto Taller Mecanico.exe
+E:\LG Smart TV\Proyecto-TM-Yamir-Mani\PROYECTO FINAL MANI E YAMIR\obj\Debug\Proyecto Taller Mecanico.pdb
